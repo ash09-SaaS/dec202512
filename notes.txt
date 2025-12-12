@@ -1,2 +1,2 @@
-Today’s task: Deploy server
+Today’s task: Deploy API
 
